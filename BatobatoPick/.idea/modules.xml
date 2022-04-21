@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BatobatoPick.iml" filepath="$PROJECT_DIR$/.idea/BatobatoPick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GUItkinter/.idea/GUItkinter.iml" filepath="$PROJECT_DIR$/../GUItkinter/.idea/GUItkinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Random_Module/.idea/Random_Module.iml" filepath="$PROJECT_DIR$/../Random_Module/.idea/Random_Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../arrayList/.idea/arrayList.iml" filepath="$PROJECT_DIR$/../arrayList/.idea/arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dollarToPeso/.idea/dollarToPeso.iml" filepath="$PROJECT_DIR$/../dollarToPeso/.idea/dollarToPeso.iml" />
+    </modules>
+  </component>
+</project>
